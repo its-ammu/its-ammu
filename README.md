@@ -12,19 +12,19 @@
 
 **IOT based smart water delivery and monitoring system**
 
-Equal distribution and automated leakage monitoring of water in pipelines 
+💧Equal distribution and automated leakage monitoring of water in pipelines 
 
 ## Certfications
 
 **Lucideus certified security professional**
 
-Score - 92%
+🧐 Score - 92%
 
-Certificate Id - LCSP-E/BIT/18191024
+✅ Certificate Id - LCSP-E/BIT/18191024
 
 ## Courses
 
-Architecting with compute engine - *Coursera specialization*
+📑 Architecting with compute engine - *Coursera specialization*
 
 <!---
 its-ammu/its-ammu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
