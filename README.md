@@ -6,8 +6,7 @@
 - 📚 I’m currently learning BE CSE - Third year
 - 📝 Learning new things has always been my passion
 - 📫 Reach me at amuthavarsnirajkumar@gmail.com
-- 👩 If I have to choose 5 words to describe myself they would be fast-learner, hardworking, reliable, attentive, and adaptive.
-- I would quote myself to be *"Someone who has a sense of direction and once I set my mind I will strive to achieve it"*
+- 👩 I would quote myself to be *"Someone who has a sense of direction and once I set my mind I will strive to achieve it"*
 
 ## Projects
 
