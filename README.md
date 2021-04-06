@@ -3,7 +3,7 @@
 
 - 👋 Hi, I’m Amutha varsni R
 - 👀 I’m interested in App development and Cloud computing
-- 📚 I’m currently learning BE CSE - Third year
+- 🎓 I’m currently doing BE CSE - Third year
 - 📝 Learning new things has always been my passion
 - 📫 Reach me at amuthavarsnirajkumar@gmail.com
 - 👩 I would quote myself to be *"Someone who has a sense of direction and once I set my mind I will strive to achieve it"*
