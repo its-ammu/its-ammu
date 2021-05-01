@@ -30,7 +30,7 @@
 📑 Architecting with compute engine - 5 Courses
 > *Coursera Specialization*
 
-📑 30 days of google cloud - 12 Quests
+📑 30 days of google cloud - 11 Quests
 > *Qwiklabs based training By Google Cloud*
 
 📑 Getting started with app development - 1 Course
