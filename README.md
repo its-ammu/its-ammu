@@ -7,6 +7,10 @@
 - 📝 Learning new things has always been my passion
 - 📫 Reach me at amuthavarsnirajkumar@gmail.com
 
+## My Google Qwiklab Profile
+
+[Amutha varsni R - Public Profile - Click here to view my Badges](https://google.qwiklabs.com/public_profiles/c7b5c0d8-8ad8-407a-9288-4f34cfd80609)
+
 ## Projects
 
 **IOT based smart water delivery and monitoring system**
