@@ -2,8 +2,9 @@
 ## Personal profile
 
 - 👋 Hi, I’m Amutha varsni R
-- 👀 I’m interested in App development and Cloud computing
-- 🎓 I’m currently doing BE CSE - Fourth year
+- 👀 Interested in Cloud computing and DevOps
+- 🎨 Design illustrations when bored
+- 🎓 Currently doing BE CSE - Fourth year
 - 📝 Learning new things has always been my passion
 - 📫 Reach me at amuthavarsnirajkumar@gmail.com
 
@@ -21,20 +22,45 @@
 
 **Lucideus certified security professional**
 
-🧐 Score - 92%
-
 ✅ Certificate Id - LCSP-E/BIT/18191024
 
-## Courses
+**Microsoft Azure Fundamentals**
 
-📑 Architecting with compute engine - 5 Courses
-> *Coursera Specialization*
+✅ Certificate Id - I223-1361
 
-📑 30 days of google cloud - 11 Quests
-> *Qwiklabs based training By Google Cloud*
+## Skills, Tools & Languages
 
-📑 Getting started with app development - 1 Course
-> *Coursera Course*
+<table>
+  <tr>
+    <td>AWS</td>
+    <td>✦✦✦✦</td>
+  </tr>
+  <tr>
+    <td>GCP</td>
+    <td>✦✦✦</td>
+  </tr>
+  <tr>
+    <td>Azure</td>
+    <td>✦✦✦✦</td>
+  </tr>
+  <tr>
+    <td>Terraform</td>
+    <td>✦✦✦</td>
+  </tr>
+  <tr>
+    <td>Docker</td>
+    <td>✦✦✦✦</td>
+  </tr>
+  <tr>
+    <td>Jenkins</td>
+    <td>✦✦✦✦</td>
+  </tr>
+  <tr>
+    <td>Python</td>
+    <td>✦✦✦✦</td>
+  </tr>
+  
+</table>
 
 <!---
 its-ammu/its-ammu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
