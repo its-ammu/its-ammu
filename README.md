@@ -1,8 +1,26 @@
 
 ## Meet Amuthavarsni!
-[![Linkedin: amuthavarsni](https://img.shields.io/badge/-amuthavarsni-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[[https://www.linkedin.com/in/amutha-varsni-r-15a8a7171/]])](https://www.linkedin.com/in/amutha-varsni-r-15a8a7171/)
-[![GitHub Its-Ammu](https://img.shields.io/github/followers/its-ammu?label=follow&style=social)](https://github.com/its-ammu)
 
+[![](https://img.shields.io/badge/LinkedIn-amuthavarsni-blue)](https://www.linkedin.com/in/amutha-varsni-r-15a8a7171/)
+[![](https://img.shields.io/badge/Gmail-amuthavarsnirajkumar@gmail.com-red)](mailto:amuthavarsnirajkumar@gmail.com)
+[![](https://img.shields.io/badge/blog-varsni.io-green)]()
+
+
+
+By day, I'm a DevOps engineer who streamlines tech processes. By night, I craft automation spells and share insights to make your tech journey exciting and accessible. 
+
+```sh
+export USER_DETAILS={
+  pronouns: "she" | "her"
+  role: "devopsEngineer"
+  certified: {
+    "AWS": 1,
+    "Azure": 2,
+    "Hashicorp": 1
+  }
+  skills: ["AWS","Azure","GCP","Javascript","Python","Docker","Kubernetes","CI-CD","Scripting"]
+}
+```
 
 
 <!---
