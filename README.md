@@ -5,21 +5,50 @@
 [![](https://img.shields.io/badge/Gmail-amuthavarsnirajkumar@gmail.com-red)](mailto:amuthavarsnirajkumar@gmail.com)
 [![](https://img.shields.io/badge/blog-varsni.io-green)]()
 
-
-
-By day, I'm a DevOps engineer who streamlines tech processes. By night, I craft automation spells and share insights to make your tech journey exciting and accessible. 
+<div align="center">
+  <img src="./Octocat Build.png" alt="Octocat Build" width="300"/>
+</div>
 
 ```sh
-export USER_DETAILS={
-  pronouns: "she" | "her"
-  role: "devopsEngineer"
-  certified: {
-    "AWS": 1,
-    "Azure": 2,
-    "Hashicorp": 1
-  }
-  skills: ["AWS","Azure","GCP","Javascript","Python","Docker","Kubernetes","CI-CD","Scripting"]
-}
+~$ whoami▍
+Amuthavarsni Rajkumar
+
+~$ title▍
+Senior Engineer @ Presidio
+
+~$ roles▍
+- Devops Engineer
+- Developer
+- Cloud Computing Enthusiast
+- UI Designer (sometimes)
+
+~$ certs▍
+- AWS Solution Architect – Associate
+- Terraform Certified
+- Azure AZ-104 Certified
+
+~$ now▍
+- Prepping for AWS SA – Professional
+- Writing clean Python scripts
+- Sharing thoughts at blog.varsni.io
+
+~$ known_for▍
+- Breaking down complexity
+- Organizing with simplicity
+- Designing clean UI
+- Taking neat notes
+- Making snapchat lenses
+
+~$ blog▍
+https://blog.varsni.io
+
+~$ connect▍
+GitHub:    https://github.com/its-ammu
+LinkedIn:  https://www.linkedin.com/in/amutha-varsni-r-15a8a7171/
+Blog:      https://blog.varsni.io
+
+~$ echo "Engineer at work. Wizard after hours. 💻🔮"▍
+Engineer at work. Wizard after hours. 💻🔮
 ```
 
 
