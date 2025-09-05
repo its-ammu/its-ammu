@@ -19,18 +19,20 @@ Senior Engineer @ Presidio
 ~$ roles▍
 - Devops Engineer
 - Developer
+- AIOps Engineer
 - Cloud Computing Enthusiast
-- UI Designer (sometimes)
+- Occasional UI Designer
 
 ~$ certs▍
-- AWS Solution Architect – Associate
+- AWS Solution Architect – Proffessional
+- AWS Sysops - Associate
 - Terraform Certified
 - Azure AZ-104 Certified
 
 ~$ now▍
-- Prepping for AWS SA – Professional
-- Writing clean Python scripts
 - Sharing thoughts at blog.varsni.io
+- Designing another portfolio for no reason
+- Planning for a trip that she will never go
 
 ~$ known_for▍
 - Breaking down complexity
