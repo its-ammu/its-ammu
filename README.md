@@ -30,7 +30,7 @@ Senior Engineer @ Presidio
 - Azure AZ-104 Certified
 
 ~$ now▍
-- Sharing thoughts at blog.varsni.io
+- Sharing thoughts at blog.varsni.com
 - Designing another portfolio for no reason
 - Planning for a trip that she will never go
 
@@ -42,12 +42,13 @@ Senior Engineer @ Presidio
 - Making snapchat lenses
 
 ~$ blog▍
-https://blog.varsni.io
+https://blog.varsni.com
 
 ~$ connect▍
 GitHub:    https://github.com/its-ammu
 LinkedIn:  https://www.linkedin.com/in/amutha-varsni-r-15a8a7171/
-Blog:      https://blog.varsni.io
+Blog:      https://blog.varsni.com
+Portfolio: https://portfolio.varsni.com
 
 ~$ echo "Engineer at work. Wizard after hours. 💻🔮"▍
 Engineer at work. Wizard after hours. 💻🔮
