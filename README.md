@@ -3,7 +3,7 @@
 
 [![](https://img.shields.io/badge/LinkedIn-amuthavarsni-blue)](https://www.linkedin.com/in/amutha-varsni-r-15a8a7171/)
 [![](https://img.shields.io/badge/Gmail-amuthavarsnirajkumar@gmail.com-red)](mailto:amuthavarsnirajkumar@gmail.com)
-[![](https://img.shields.io/badge/blog-varsni.io-green)]()
+[![](https://img.shields.io/badge/blog-varsni.com-green)]()
 
 <div align="center">
   <img src="./Octocat Build.png" alt="Octocat Build" width="300"/>
