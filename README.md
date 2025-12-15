@@ -3,8 +3,8 @@
 
 [![](https://img.shields.io/badge/LinkedIn-amuthavarsni-blue)](https://www.linkedin.com/in/amutha-varsni-r-15a8a7171/)
 [![](https://img.shields.io/badge/Gmail-amuthavarsnirajkumar@gmail.com-red)](mailto:amuthavarsnirajkumar@gmail.com)
-[![](https://img.shields.io/badge/blog-varsni.com-green)](https://www.blog.varsni.com)
-[![](https://img.shields.io/badge/portfolio-varsni.com-yellow)](https://www.portfolio.varsni.com)
+[![](https://img.shields.io/badge/blog-varsni.com-green)](https://blog.varsni.com)
+[![](https://img.shields.io/badge/portfolio-varsni.com-yellow)](https://portfolio.varsni.com)
 
 <div align="center">
   <img src="./Octocat Build.png" alt="Octocat Build" width="300"/>
